@@ -1,0 +1,68 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "file": "english.json",
+      "version": 1,
+      "size": "1.07MB",
+      "count": 1066,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/english.json"
+    },
+    {
+      "name": "Hindi",
+      "file": "hindi.json",
+      "version": 1,
+      "size": "2.63MB",
+      "count": 1440,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/hindi.json"
+    },
+    {
+      "name": "Malayalam",
+      "file": "malayalam.json",
+      "version": 1,
+      "size": "10.15MB",
+      "count": 4405,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/malayalam.json"
+    },
+    {
+      "name": "Tamil",
+      "file": "tamil.json",
+      "version": 1,
+      "size": "39.46MB",
+      "count": 14704,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/tamil.json"
+    },
+    {
+      "name": "Portuguese",
+      "file": "portuguese.json",
+      "version": 1,
+      "size": "1.65MB",
+      "count": 1500,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/portuguese.json"
+    },
+    {
+      "name": "Spanish",
+      "file": "spanish.json",
+      "version": 1,
+      "size": "0.02MB",
+      "count": 35,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/spanish.json"
+    },
+    {
+      "name": "Telugu",
+      "file": "telugu.json",
+      "version": 1,
+      "size": "0.01MB",
+      "count": 18,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/telugu.json"
+    },
+    {
+      "name": "Kannada",
+      "file": "kannada.json",
+      "version": 1,
+      "size": "0.47MB",
+      "count": 327,
+      "url": "https://github.com/stephennotw/worshipflow-language-packs/releases/download/v1.0/kannada.json"
+    }
+  ]
+}
